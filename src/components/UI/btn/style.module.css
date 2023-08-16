@@ -8,3 +8,11 @@
   border: none;
   line-height: 1;
 }
+
+.title span {
+  text-decoration: underline;
+}
+/* nesitaikyti be klases nes bus kaip globalus css */
+/* button {
+  text-transform: uppercase;
+} */

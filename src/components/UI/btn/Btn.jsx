@@ -1,4 +1,6 @@
-import './style.css';
-export default function Btn() {
-  return <button className='btn'>Click me</button>;
+import css from './style.module.css';
+
+export default function Btn(props) {
+  console.log('css ===', css);
+  return <button className={css.btn}>{props.children}</button>;
 }
