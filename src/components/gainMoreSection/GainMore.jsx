@@ -1,4 +1,5 @@
 import SectionTitle from '../UI/sectionTitle/SectionTitle';
+import GainList from './GainList';
 import css from './GainMore.module.css';
 
 export default function GainMore() {
@@ -12,7 +13,7 @@ export default function GainMore() {
       />
 
       <div className={css.grid}>
-        <div>left</div>
+        <GainList />
         <img src='/img/gainMore.jpg' alt='pen and paper' />
       </div>
     </section>

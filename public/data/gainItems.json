@@ -16,23 +16,5 @@
     "icon": "./images/iconPeople.png",
     "title": "Team Management",
     "descr": "Our calendar lets you know what is happening with customer and projects so you"
-  },
-  {
-    "id": 4,
-    "icon": "./images/iconEdit.png",
-    "title": "Build your website",
-    "descr": "A tool that lets you build a dream website even if you know nothing about web design or programming."
-  },
-  {
-    "id": 5,
-    "icon": "./images/iconGrid.png",
-    "title": "Connect multiple apps",
-    "descr": "The first business platform to bring together all of your products from one place."
-  },
-  {
-    "id": 6,
-    "icon": "./images/iconSettings.png",
-    "title": "Easy setup",
-    "descr": "End to End Business Platform, Sales Management, Marketing Automation, Help Desk"
   }
 ]
