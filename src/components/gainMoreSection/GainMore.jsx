@@ -1,5 +1,5 @@
 import SectionTitle from '../UI/sectionTitle/SectionTitle';
-import css from './style.module.css';
+import css from './GainMore.module.css';
 
 export default function GainMore() {
   return (
