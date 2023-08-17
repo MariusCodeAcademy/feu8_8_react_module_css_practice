@@ -2,10 +2,10 @@ import Icon from '../UI/icon/Icon';
 import css from './GainItem.module.css';
 
 export default function GainItem(props) {
-  // console.log('css ===', css);
+  console.log('css ===', css);
   return (
     <div className={css.grid}>
-      <div className={css.rowSpan2}>
+      <div className={css['row-span-2']}>
         <Icon>{props.icon}</Icon>
       </div>
       <h3>{props.title}</h3>
