@@ -1,6 +1,6 @@
 .wrap {
   border-radius: 6px;
-  background-color: #22c55e;
+  background-color: var(--primary);
   width: 56px;
   height: 56px;
   display: flex;
